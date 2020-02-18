@@ -1,5 +1,4 @@
 <h1>Padlock With Fingerprint Support</h1>
-<hr/>
 
 <p>Halo! ini kode sumber Arduino untuk mengatur kerja mikrokontroler.
 Saya memakai Atmega328p sebagai mikrokontroler yang diuji (khususnya Arduino Uno).
